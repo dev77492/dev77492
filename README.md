@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dev77492
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning MERN stack development.
 - 💞️ I’m looking to collaborate on Web development / MERN stack development . 
 - 📫 you can reach me on instagram/twitter as @theaniketsawant
 
