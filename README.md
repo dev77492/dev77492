@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dev77492
 - 👀 I’m interested in learning new technologies.
 - 💞️ I’m looking to collaborate on automation using selenium, python, Jmeter, pytest.
-- 💞️ I'm interested in Data Science and ML. I posses good knowledge of Numpy, pnadas,etc
+- 💞️ I'm interested in Data Science and ML. I posses good knowledge of Numpy, pandas,etc
 - 📫 you can reach me on instagram/twitter as @theaniketsawant
 
 <!---
